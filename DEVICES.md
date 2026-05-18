@@ -86,6 +86,7 @@
 - Tecxerllon 1500W panel heater
 - Termoplaza 900 panel heater
 - Touchstone Sideline electric fireplace
+- Touchstone Sideline electric fireplace (red/blue flame variant)
 - TyloHelo SaunaLogic2 sauna controller
 - Valehaus SYZN119 towel warmer
 - Vonroc GPH-XA-HEMAN heater
@@ -398,7 +399,8 @@
 - Mantra ceiling fan with light
 - Milano ceiling fan
 - New Widetech WPF-16SW5 7-speed pedestal fan
-- Novadigital ceiling fan with light
+- Novadigital ceiling fan with light
+
 - NP-DVL-01 ceiling fan with RGB+CW light
 - OmniBreeze DC2313R tower fan (4-speed and 5-speed models)
 - Orison Chanfok Neo ceiling fan with light
