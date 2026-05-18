@@ -1,4 +1,8 @@
-name: Touchstone Sideline electric fireplace (red/blue version)
+name: Touchstone Sideline electric fireplace
+products:
+  - id: pkgk72uonlqlzcil
+    manufacturer: Touchstone
+    model: Sideline (red/blue flame variant)
 entities:
   - entity: switch
     translation_key: power
